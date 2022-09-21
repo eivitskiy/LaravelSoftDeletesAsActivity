@@ -1,0 +1,19 @@
+{
+    "name": "eivitskiy/laravel-soft-deletes-as-activity",
+    "description": "Laravel files for using SoftDeletes as active/inactive",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Eivitskiy\\LaravelSoftDeletesAsActivity\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Evgeniy Ivitskiy",
+            "email": "eivitskiy@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
